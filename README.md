@@ -342,7 +342,7 @@ Klüme은 다음과 같은 실제 문제 상황을 해결하기 위해 기획되
 
 ---
 
-## 8. CI/CD
+## 8. 배포
 
 <details>
   <summary> &nbsp; jenkins 파이프라인 </summary>
