@@ -135,9 +135,7 @@
 
 ---
 
-## 5. 테스트케이스
-
-### 주요 기능
+## 5. 주요 기능 시연
 
 <details>
 <summary> 👤 &nbsp; 회원가입 및 로그인 </summary>
@@ -290,7 +288,7 @@
 
 ---
 
-## 6. Mockito 테스트
+## 6. 테스트
 <details>
 <summary>  &nbsp; Member 테스트 </summary>
 <img width="931" height="509" alt="멤버테스트" src="https://github.com/user-attachments/assets/691b87b0-73b9-4df8-9c4f-a3121f3d6d3f" />
@@ -299,6 +297,17 @@
 <img width="952" height="507" alt="이메일로회원조회테스트" src="https://github.com/user-attachments/assets/3abecc32-4078-4b11-a0cd-afd31e09fabf" />
 <img width="951" height="523" alt="로그인테스트" src="https://github.com/user-attachments/assets/6384a14a-fe89-4a92-9bb7-5678df2c2864" />
 <img width="960" height="521" alt="회원가입테스트" src="https://github.com/user-attachments/assets/3d7130f6-6af1-46bd-932b-a65f8000b0fd" />
+
+  
+</details>
+
+<details>
+<summary>  &nbsp; Room 테스트 </summary>
+<img width="966" height="495" alt="회의실테스트 2025-11-17 031320" src="https://github.com/user-attachments/assets/8f30c701-a59c-4f84-8346-03c433f0f9fa" />
+<img width="1178" height="882" alt="회의실서비스단위테스트 2025-11-17 030736" src="https://github.com/user-attachments/assets/65a4f291-002f-4ccf-b93e-31e63d1f22f0" />
+<img width="1243" height="677" alt="회의실컨트롤러단위테스트 2025-11-17 030551" src="https://github.com/user-attachments/assets/5d0b23d5-ec0c-4a31-ad6d-f9fe79b6ccfb" />
+<img width="753" height="557" alt="회의실 이용가능시간단위테스트 2025-11-17 030847" src="https://github.com/user-attachments/assets/4627c0f2-649a-47af-827d-4fd76dbe36e9" />
+
 
   
 </details>
